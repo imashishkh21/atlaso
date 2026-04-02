@@ -1,0 +1,21 @@
+name: Feature Request
+description: Suggest a new feature or improvement
+labels: ["feature"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What would you like?
+      description: Describe the feature or improvement you'd like to see.
+      placeholder: "It would be great if Atlaso could..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Use case
+      description: How would this help your workflow?
+      placeholder: "I often need to... and this would let me..."
+    validations:
+      required: false
