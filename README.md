@@ -39,7 +39,7 @@ Atlaso is a general-purpose AI assistant — writing, research, analysis, brains
 | Platform | Download |
 |----------|----------|
 | **macOS** (Apple Silicon + Intel) | [Download DMG](https://github.com/imashishkh21/atlaso/releases/latest) |
-| **Windows** | [Download MSI](https://github.com/imashishkh21/atlaso/releases/latest) |
+| **Windows** | [Download Installer](https://github.com/imashishkh21/atlaso/releases/latest) |
 | **Linux** | [Download AppImage](https://github.com/imashishkh21/atlaso/releases/latest) |
 
 ## Features
