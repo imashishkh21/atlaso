@@ -44,7 +44,7 @@ Atlaso is a general-purpose AI assistant — writing, research, analysis, brains
 
 ## Features
 
-- **Multi-model support** — use Claude, GPT, Gemini, and more through Vercel AI Gateway or OpenRouter
+- **Multi-model support** — use Claude, GPT, Gemini, and more
 - **Pulses** — rich content blocks that turn conversations into deliverables:
   - **Documents** — markdown with full formatting, diagrams, and export
   - **Code** — multi-file editing with syntax highlighting across 50+ languages
